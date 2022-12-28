@@ -13,7 +13,7 @@
 
 ## Technology Stacks
 - Frontend : html, css, javascript, jQuery, bootstrap, chart.js, node.js
-- Backend : spring, oracle DB, SQL, mySql, Data Analytics with python & R
+- Backend : spring with java, oracle DB, SQL, mySql, Data Analytics with python & R, ar/vr game with c#
 - Mobile App : react native, android, ios
 - Deployment : aws, firebase
 - Version Control : GitHub
