@@ -13,7 +13,7 @@
 
 ## Technology Stacks
 - Frontend : html, css, javascript, jQuery, bootstrap
-- Backend : java, python, oracle
+- Backend : spring, oracle
 - Mobile App : react native, android, ios
 - Deployment : aws, firebase
 - Version Control : GitHub
