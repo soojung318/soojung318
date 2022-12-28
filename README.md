@@ -12,8 +12,8 @@
 - sjshin0318@gmail.com
 
 ## Technology Stacks
-- Frontend : html, css, javascript, jQuery, bootstrap
-- Backend : spring, oracle
+- Frontend : html, css, javascript, jQuery, bootstrap, chart.js, node.js
+- Backend : spring, oracle DB, SQL, mySql, Data Analytics with python & R
 - Mobile App : react native, android, ios
 - Deployment : aws, firebase
 - Version Control : GitHub
