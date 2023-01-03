@@ -12,8 +12,8 @@
 - sjshin0318@gmail.com
 
 ## Technology Stacks
-- Frontend : html, css, javascript, jQuery, bootstrap, chart.js, node.js
-- Backend : spring with java, oracle DB, SQL, mySql, Data Analytics with python & R
+- Frontend : html, css, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScripte&logoColor=black"/>, jQuery, bootstrap, chart.js, node.js
+- Backend : spring with java, <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat&logo=Oracle&logoColor=white"/>, <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>, <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>, Data Analytics with <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> & <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 - Mobile App : react native, android, ios, ar/vr game with c#
 - Deployment : aws, firebase
 - Version Control : GitHub
