@@ -19,12 +19,12 @@
 - Deployment : <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>, <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 - Version Control : <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
-## SNS
+<!--sns
 <a href="https://www.instagram.com/sjsj._.e/">
     <img 
         src="http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sjsj._.e/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+-->
 ---
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoojung318&count_bg=%238B5BAC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
