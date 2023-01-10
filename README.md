@@ -26,6 +26,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 -->
+<!--
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjshin0318)](https://solved.ac/sjshin0318)
+-->
 ---
 <a href="https://velog.io/@soojung318">
     <img src="http://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&link=https://velog.io/@soojung318" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
