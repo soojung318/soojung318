@@ -27,4 +27,8 @@
 </a>
 -->
 ---
+<a href="https://velog.io/@soojung318">
+    <img src="http://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&link=https://velog.io/@soojung318" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoojung318&count_bg=%238B5BAC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
