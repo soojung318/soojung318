@@ -30,7 +30,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjshin0318)](https://solved.ac/sjshin0318)
 -->
 # 프로젝트
-## 나만의 비밀 다이어리 어플리케이션, PAPAYA(with Android)
+## 나만의 비밀 다이어리 어플리케이션, PAPAYA(with <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>)
 
 <p><a href="https://github.com/morriee/AdvancedMobile/wiki/%ED%94%84%EC%A0%9D-%EC%A0%9C%EC%95%88%EC%84%9C">프로젝트 제안서</a></p>
 <p><a href="https://github.com/morriee/Papaya3">소스 저장소</a></p>
