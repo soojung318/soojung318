@@ -29,7 +29,7 @@
 <!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjshin0318)](https://solved.ac/sjshin0318)
 -->
-
+# 프로젝트
 ## 나만의 비밀 다이어리 어플리케이션, PAPAYA(with Android)
 
 <p><a href="https://github.com/morriee/AdvancedMobile/wiki/%ED%94%84%EC%A0%9D-%EC%A0%9C%EC%95%88%EC%84%9C">프로젝트 제안서</a></p>
@@ -40,5 +40,11 @@
 <a href="https://velog.io/@soojung318">
     <img src="http://img.shields.io/badge/-Velog-000000?style=flat&logo=Velog&link=https://velog.io/@soojung318" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://www.instagram.com/sjsj._.e/">
+    <img 
+        src="http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sjsj._.e/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+-->
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoojung318&count_bg=%238B5BAC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
