@@ -37,8 +37,8 @@
 
 ---
 ## 💻기업 전기차 충전소 실사 관리 및 통계 웹 페이지 개발
-<img src="https://user-images.githubusercontent.com/106755183/223613026-818ea4e5-817e-423f-9fbb-43cbe6a20572.png" width="600" height="400">
-<img src="https://user-images.githubusercontent.com/106755183/223613324-591c15e3-d638-4d35-aaf8-b4d1fc8c61a5.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/106755183/223613026-818ea4e5-817e-423f-9fbb-43cbe6a20572.png" width="600" height="350">
+<img src="https://user-images.githubusercontent.com/106755183/223613324-591c15e3-d638-4d35-aaf8-b4d1fc8c61a5.png" width="600" height="350">
 
 
 <a href="https://velog.io/@soojung318">
