@@ -41,6 +41,8 @@
 <img src="https://user-images.githubusercontent.com/106755183/223613026-818ea4e5-817e-423f-9fbb-43cbe6a20572.png" width="600" height="350">
 <img src="https://user-images.githubusercontent.com/106755183/223613324-591c15e3-d638-4d35-aaf8-b4d1fc8c61a5.png" width="600" height="350">
 
+작업기간 : 2023.02.09 ~ 
+
 ----
 <a href="https://velog.io/@soojung318">
 <img src="http://img.shields.io/badge/-Velog-000000?style=flat&logo=Velog&link=https://velog.io/@soojung318" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
