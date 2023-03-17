@@ -52,7 +52,7 @@
 <a href="https://velog.io/@soojung318">
 <img src="http://img.shields.io/badge/-Velog-000000?style=flat&logo=Velog&link=https://velog.io/@soojung318" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.instagram.com/sjsj._.e/">
+<a href="https://www.instagram.com/dev._.chris/">
 <img src="http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sjsj._.e/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
