@@ -41,7 +41,7 @@
 <img src="https://user-images.githubusercontent.com/106755183/223613026-818ea4e5-817e-423f-9fbb-43cbe6a20572.png" width="600" height="350">
 <img src="https://user-images.githubusercontent.com/106755183/223613324-591c15e3-d638-4d35-aaf8-b4d1fc8c61a5.png" width="600" height="350">
 
-<p>작업기간 : 2023.02.09 ~ </p>
+<p>작업기간 : 2023.02.09 ~ 2023.04.3</p>
 <p>작업툴 : WebStorm 2022.2.3</p>
 <p>기술 스택 : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>, <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>, <img src="https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>, <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"/>,<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> 
 </p>
