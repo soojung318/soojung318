@@ -7,7 +7,7 @@
 
 - Shin Soo Jung
 - Computer Science 17
-- <!--INT64 Inc.--> Junior Software Engineer
+- <!--INT64 Inc.--> Junior Developer
 - sjshin0318@gmail.com
 
 ## Technology Stacks
