@@ -6,7 +6,7 @@
 ## Personal Info
 
 - Shin Soo Jung
-- Computer Science 17
+- Computer Science 17, Hansung Univ
 - <!--INT64 Inc.--> Junior Developer
 - sjshin0318@gmail.com
 
