@@ -5,9 +5,9 @@
 -->
 ## Personal Info
 
-- Shin Soo Jung
+- Shin SooJung
 - Computer Science 17
-- <!--INT64 Inc.--> Junior Web Developer
+- <!--INT64 Inc.--> Junior Web Developer 
 - sjshin0318@gmail.com
 
 <!--## Technology Stacks
