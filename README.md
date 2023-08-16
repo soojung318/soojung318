@@ -48,7 +48,7 @@
 <p>작업 인원 : 2명</p>
 <p>소개 : 전기차 충전소의 현황과 앞으로 제작할 전기차 충전소 실사 관리를 한다. 시공사, 시행사, 영업본부, 운영본부에서 동시에 확인 가능할 수 있고, 운영본부에서 실사관리를 하기 위해 사용된다. 또한 충전사업자들도 이 웹페이지를 통해 현재 상황을 실시간으로 파악할 수 있으며, 전기차 충전소에 대한 위치, 개수, 등을 파악할 수 있다. 이 웹페이지에서 인사관리 DB도 이루어지고, 일정, 실사, 계약, 공지사항, 시스템, 실시간 모니터링이 이루어진다.</p>
 -->
-----
+<!----->
 <!--<a href="https://velog.io/@soojung318">
 <img src="http://img.shields.io/badge/-Velog-000000?style=flat&logo=Velog&link=https://velog.io/@soojung318" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>-->
