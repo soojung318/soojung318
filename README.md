@@ -1,8 +1,8 @@
 # Hello, I'm Chris. 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojung318&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojung318&show_icons=true&theme=onedark)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soojung318&layout=compact&theme=onedark)
--->
+
 ## Personal Info
 
 - Shin Soojung
