@@ -7,9 +7,9 @@
 
 - Shin Soojung
 - Computer Science 17
-- <!--INT64 Inc.--> Junior Web Developer 
-- sjshin0318@gmail.com
- 
+ - sjshin0318@gmail.com
+  <!--INT64 Inc.--> <!--Junior Web Developer -->
+  
 <!--## Technology Stacks
 - Frontend : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>, <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>, <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>, <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>, <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"/>, <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=D3.js&logoColor=white"/>, <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 - Backend : <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> with <img src="https://img.shields.io/badge/Java-0769AD?style=flat&logo=Java&logoColor=white"/>, <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat&logo=Oracle&logoColor=white"/>, <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>, <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>, Data Analytics with <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> & <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
