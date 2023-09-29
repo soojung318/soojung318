@@ -5,7 +5,7 @@
 -->
 ## Personal Info
 
-- Shin Soojung
+- Front-End
 - Major in Computer Engineering
  - sjshin0318@gmail.com
   <!--INT64 Inc.--> <!--Junior Web Developer -->
