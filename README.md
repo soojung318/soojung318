@@ -5,7 +5,7 @@
 -->
 ## Personal Info
 
-- Front-End
+- Front-end
 - Major in Computer Engineering
  - sjshin0318@gmail.com
   <!--INT64 Inc.--> <!--Junior Web Developer -->
