@@ -7,7 +7,7 @@
 
 - Web Front-end
 - Major in Computer Engineering
- - sjshin0318@gmail.com
+- sjshin0318@gmail.com
   <!--INT64 Inc.--> <!--Junior Web Developer -->
   
 <!--## Technology Stacks
