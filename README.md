@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E7AE78&height=150&section=header" />
 <!--
-컬러 후보들
+컬러 후보들 : (색상 스포이드) https://photokit.com/colors/eyedropper/?lang=ko
 1. B0753E
 2. D39452
 3. E7AE78
