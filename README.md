@@ -1,9 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E7AE78&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=85965E&height=150&section=header" />
 <!--
 컬러 후보들 : (색상 스포이드) https://photokit.com/colors/eyedropper/?lang=ko
 1. B0753E
 2. D39452
 3. E7AE78
+4. 5F7A48
+5. 85965E
+6. 91C16D
 -->
 
 # Hello, I'm Chris. 
