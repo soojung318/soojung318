@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B0753E&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E7AE78&height=150&section=header" />
+<!--
+컬러 후보들
+1. B0753E
+2. D39452
+3. E7AE78
+-->
 
 # Hello, I'm Chris. 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojung318&show_icons=true&theme=onedark)
@@ -11,6 +17,8 @@
 - Major in Computer Engineering
 - sjshin0318@gmail.com
   <!--INT64 Inc.--> <!--Junior Web Developer -->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojung318)](https://github.com/soojung318/github-readme-stats)-->
+
 
   <!--
 ## Technology Stacks
@@ -62,5 +70,11 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoojung318&count_bg=%238B5BAC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soojung318)](https://github.com/soojung318/github-readme-stats)-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B0753E&height=150&section=footer" />
+
+<!--
+깃허브 리드미 꾸미는 소스코드 모아놓으 블로
+https://hulrud.tistory.com/3
+-->
